@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bolu Korsan Taksi | Kartalkaya, Abant ve Havalimanı Yolu</title>
+  <link href="https://bolukorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://bolukorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://bolukorsantaksi.github.io/</id>
+  <updated>2026-11-18T23:45:54.166Z</updated>
+  <author><name>Bolu Korsan Taksi</name></author>
+  <entry>
+    <title>Bolu Korsan Taksi | Kartalkaya, Abant ve Havalimanı Yolu</title>
+    <link href="https://bolukorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://bolukorsantaksi.github.io/</id>
+    <updated>2026-11-18T23:45:54.166Z</updated>
+    <summary>Bolu korsan taksi: Kartalkaya kayak otelleri, Abant, Gölcük ve Yedigöller, Esenboğa Havalimanı merkezden 203 km, Gerede, Mudurnu ve Göynük yolu. 7/24.</summary>
+  </entry>
+</feed>

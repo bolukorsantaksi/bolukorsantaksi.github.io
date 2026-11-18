@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bolukorsantaksi.github.io/sitemap.xml
